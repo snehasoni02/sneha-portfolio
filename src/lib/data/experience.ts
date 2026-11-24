@@ -4,10 +4,10 @@ export const EXPERIENCES: Experience[] = [
   {
     role: "QA Intern · AI Platform",
     company: "Nagent.AI",
-    period: "Feb 2026 – Present",
+    period: "Feb 2026 – Sep 2026",
     location: "Bangalore, India",
     hash: "nagent-ai-2026",
-    tag: "current",
+    tag: "",
     tagColor: "text-rose-400",
     dotColor: "bg-rose-500",
     shadowColor: "shadow-rose-600/40",
